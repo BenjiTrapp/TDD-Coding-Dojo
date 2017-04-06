@@ -6,5 +6,8 @@ kleinen Anleitung in Form einer [Präsentation](https://github.com/BenjiTrapp/TD
 
 Bisher sind folgende Katas vorhanden:
 * [CoffeeMaker](https://github.com/BenjiTrapp/TDD-Coding-Dojo/blob/master/katas/CoffeeMaker_JUnit/README.md) 
-* FizzBuzzTDD
+* [FizzBuzzTDD](https://github.com/BenjiTrapp/TDD-Coding-Dojo/blob/master/katas/FizzBuzzTDD/README.md)
 
+TODOs and work in progress:
+* Katas + Beschreibungen fertig gestalten (WIP)
+* Kata bzgl. "Mocking - And how to kill a Mock"
