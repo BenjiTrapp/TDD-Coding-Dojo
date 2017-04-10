@@ -67,6 +67,7 @@ Buzz
 ... 
 ```
 
+**Lösung**: [Ohne Predicates](https://github.com/BenjiTrapp/TDD-Coding-Dojo/tree/FizzBuzzTDDKata_Solution1/katas/FizzBuzzTDD)
 
 ## Erweiterung der Aufgabenstellung
 
