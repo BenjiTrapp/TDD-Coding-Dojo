@@ -1,7 +1,6 @@
 package edu.ncsu.csc326.coffeemaker;
 
 import edu.ncsu.csc326.coffeemaker.exceptions.InventoryException;
-import junit.framework.TestCase;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -13,7 +12,7 @@ import static org.junit.jupiter.api.Assertions.*;
  *
  * Unit tests for CoffeeMaker class.
  */
-public class CoffeeMakerTest extends TestCase {
+public class CoffeeMakerTest{
 	
 	private CoffeeMaker cm;
 	private Recipe r1;
@@ -60,10 +59,7 @@ public class CoffeeMakerTest extends TestCase {
 		r4.setAmtMilk("1");
 		r4.setAmtSugar("1");
 		r4.setPrice("65");
-		
-		super.setUp();
 	}
-
 	@Test
 	public void testAddInventory() {
 		try {

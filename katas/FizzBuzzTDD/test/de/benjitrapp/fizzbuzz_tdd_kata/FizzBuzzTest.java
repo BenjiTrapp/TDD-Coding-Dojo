@@ -1,18 +1,15 @@
-package test;
-
-import static java.util.Arrays.*;
-import static java.util.Collections.*;
-import static org.junit.jupiter.api.Assertions.assertAll;
-import static org.junit.jupiter.api.Assertions.assertArrayEquals;
-import static org.junit.jupiter.api.Assertions.assertEquals;
-import static src.Range.range;
+package de.benjitrapp.fizzbuzz_tdd_kata;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import src.FizzBuzz;
 
 import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
+
+import static de.benjitrapp.fizzbuzz_tdd_kata.FizzBuzzRange.range;
+import static java.util.Arrays.asList;
+import static java.util.Collections.singletonList;
+import static org.junit.jupiter.api.Assertions.*;
 
 class FizzBuzzTest {
     private static final List<String> FIZZ_CHECK                = singletonList("Fizz");

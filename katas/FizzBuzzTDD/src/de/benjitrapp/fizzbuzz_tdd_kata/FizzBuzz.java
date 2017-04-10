@@ -1,4 +1,4 @@
-package src;
+package de.benjitrapp.fizzbuzz_tdd_kata;
 
 import java.util.ArrayList;
 import java.util.List;

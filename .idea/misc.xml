@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/katas/FizzBuzzTDD/pom.xml" />
+        <option value="$PROJECT_DIR$/katas/CoffeeMaker_JUnit/pom.xml" />
       </list>
     </option>
   </component>

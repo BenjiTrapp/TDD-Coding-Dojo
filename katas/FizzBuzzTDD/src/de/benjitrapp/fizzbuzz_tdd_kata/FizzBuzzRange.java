@@ -1,14 +1,14 @@
-package src;
+package de.benjitrapp.fizzbuzz_tdd_kata;
 
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-public class Range {
+class FizzBuzzRange {
 
     private static final int COMPENSATE_START_AT_ZERO = 1;
 
-    public static List<Integer> range(int start, int end){
+    static List<Integer> range(int start, int end){
         assert start >= 1;
         assert end >= 1;
 
