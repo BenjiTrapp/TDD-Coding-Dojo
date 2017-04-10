@@ -1,12 +1,18 @@
+<<<<<<< Updated upstream:katas/FizzBuzzTDD/test/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzzTest.java
 package de.benjitrapp.fizzbuzz_tdd_kata;
 
+=======
+>>>>>>> Stashed changes:katas/FizzBuzzTDD/test/FizzBuzzTest.java
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
 
+<<<<<<< Updated upstream:katas/FizzBuzzTDD/test/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzzTest.java
 import static de.benjitrapp.fizzbuzz_tdd_kata.FizzBuzzRange.range;
+=======
+>>>>>>> Stashed changes:katas/FizzBuzzTDD/test/FizzBuzzTest.java
 import static java.util.Arrays.asList;
 import static java.util.Collections.singletonList;
 import static org.junit.jupiter.api.Assertions.*;
@@ -34,7 +40,7 @@ class FizzBuzzTest {
     @Test
     void shouldReturn1And2AsNumbers() throws Exception {
         //when
-        List<String> result =  fizzBuzz.filter(range(1, 2));
+        List<String> result =  fizzBuzz.filter(FizzBuzzRange.range(1, 2));
 
         // then
         assertArrayEquals(RANGE_FROM_1_TO_2.toArray(), result.toArray());
@@ -43,7 +49,7 @@ class FizzBuzzTest {
     @Test
     void shouldConvertThreeToFizz() throws Exception {
         //when
-        List<String> result =  fizzBuzz.filter(range(2, 3));
+        List<String> result =  fizzBuzz.filter(FizzBuzzRange.range(2, 3));
 
         // then
         assertArrayEquals(RANGE_FROM_2_TO_FIZZ.toArray(), result.toArray());
@@ -52,7 +58,7 @@ class FizzBuzzTest {
     @Test
     void shouldConvert6And9ToFizz() throws Exception {
         //when
-        List<String> result =  fizzBuzz.filter(range(6, 9));
+        List<String> result =  fizzBuzz.filter(FizzBuzzRange.range(6, 9));
 
         // then
         assertArrayEquals(FIZZ_7_8_FIZZ.toArray(), result.toArray());
@@ -61,7 +67,7 @@ class FizzBuzzTest {
     @Test
     void shouldConvert9ToFizz() throws Exception {
         //when
-        List<String> result =  fizzBuzz.filter(range(9, 9));
+        List<String> result =  fizzBuzz.filter(FizzBuzzRange.range(9, 9));
 
         // then
         assertArrayEquals(FIZZ_CHECK.toArray(), result.toArray());
@@ -70,7 +76,7 @@ class FizzBuzzTest {
     @Test
     void shouldConvert5ToBuzz() throws Exception {
         //when
-        List<String> result =  fizzBuzz.filter(range(5, 5));
+        List<String> result =  fizzBuzz.filter(FizzBuzzRange.range(5, 5));
 
         // then
         assertArrayEquals(BUZZ_CHECK.toArray(), result.toArray());
@@ -79,7 +85,7 @@ class FizzBuzzTest {
     @Test
     void shouldConvert60ToFizzBuzz() throws Exception {
         //when
-        List<String> result =  fizzBuzz.filter(range(60, 60));
+        List<String> result =  fizzBuzz.filter(FizzBuzzRange.range(60, 60));
 
         // then
         assertArrayEquals(FIZZBUZZ_CHECK.toArray(), result.toArray());
@@ -88,7 +94,7 @@ class FizzBuzzTest {
     @Test
     void shouldConvert15To30Correctly() throws Exception {
         //when
-        List<String> result =  fizzBuzz.filter(range(15, 30));
+        List<String> result =  fizzBuzz.filter(FizzBuzzRange.range(15, 30));
 
         // then
         assertArrayEquals(FROM_FIZZBUZZ_TO_FIZZBUZZ.toArray(), result.toArray());
@@ -106,7 +112,7 @@ class FizzBuzzTest {
         AtomicInteger fizzbuzz = new AtomicInteger(INIT_VALUE);
 
         // when
-        List<String> result = fizzBuzz.filter(range(1, 100));
+        List<String> result = fizzBuzz.filter(FizzBuzzRange.range(1, 100));
 
         result.forEach(s -> {
             switch (s) {

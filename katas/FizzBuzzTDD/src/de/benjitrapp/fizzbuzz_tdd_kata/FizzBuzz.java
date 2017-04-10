@@ -1,5 +1,8 @@
+<<<<<<< Updated upstream:katas/FizzBuzzTDD/src/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzz.java
 package de.benjitrapp.fizzbuzz_tdd_kata;
 
+=======
+>>>>>>> Stashed changes:katas/FizzBuzzTDD/src/FizzBuzz.java
 import java.util.ArrayList;
 import java.util.List;
 
