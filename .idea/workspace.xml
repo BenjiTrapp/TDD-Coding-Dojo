@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48609a9a-c687-44c9-ac78-048995d5e62e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_15_0.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/katas/CoffeeMaker_JUnit/unittests/edu/ncsu/csc326/coffeemaker/CoffeeMakerTest.java" afterPath="$PROJECT_DIR$/katas/CoffeeMaker_JUnit/unittests/edu/ncsu/csc326/coffeemaker/CoffeeMakerTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/katas/FizzBuzzTDD/README.md" afterPath="$PROJECT_DIR$/katas/FizzBuzzTDD/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/katas/FizzBuzzTDD/pom.xml" afterPath="$PROJECT_DIR$/katas/FizzBuzzTDD/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/katas/FizzBuzzTDD/src/FizzBuzz.java" afterPath="$PROJECT_DIR$/katas/FizzBuzzTDD/src/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzz.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/katas/FizzBuzzTDD/src/FizzBuzzFilter.java" afterPath="$PROJECT_DIR$/katas/FizzBuzzTDD/src/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzzFilter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/katas/FizzBuzzTDD/src/Range.java" afterPath="$PROJECT_DIR$/katas/FizzBuzzTDD/src/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzzRange.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/katas/FizzBuzzTDD/test/RangeTest.java" afterPath="$PROJECT_DIR$/katas/FizzBuzzTDD/test/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzzRangeTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/katas/FizzBuzzTDD/src/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzz.java" afterPath="$PROJECT_DIR$/katas/FizzBuzzTDD/src/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzz.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/katas/FizzBuzzTDD/src/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzzFilter.java" afterPath="$PROJECT_DIR$/katas/FizzBuzzTDD/src/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzzFilter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/katas/FizzBuzzTDD/test/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzzTest.java" afterPath="$PROJECT_DIR$/katas/FizzBuzzTDD/test/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzzTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/katas/FizzBuzzTDD/target/" />
     <ignored path="$PROJECT_DIR$/katas/CoffeeMaker_JUnit/target/" />
@@ -34,8 +28,10 @@
         <entry file="file://$PROJECT_DIR$/katas/FizzBuzzTDD/src/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzz.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding />
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -44,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/katas/FizzBuzzTDD/src/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzzFilter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -83,8 +79,8 @@
       <file leaf-file-name="FizzBuzzTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/katas/FizzBuzzTDD/test/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzzTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+            <state relative-caret-position="-170">
+              <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -103,7 +99,7 @@
       <file leaf-file-name="FizzBuzzRangeTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/katas/FizzBuzzTDD/test/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzzRangeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-17">
+            <state relative-caret-position="187">
               <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -162,6 +158,8 @@
         <option value="$PROJECT_DIR$/katas/FizzBuzzTDD/pom.xml" />
         <option value="$PROJECT_DIR$/katas/CoffeeMaker_JUnit/unittests/edu/ncsu/csc326/coffeemaker/CoffeeMakerTest.java" />
         <option value="$PROJECT_DIR$/katas/FizzBuzzTDD/src/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzzRange.java" />
+        <option value="$PROJECT_DIR$/katas/FizzBuzzTDD/src/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzz.java" />
+        <option value="$PROJECT_DIR$/katas/FizzBuzzTDD/src/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzzFilter.java" />
         <option value="$PROJECT_DIR$/katas/FizzBuzzTDD/test/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzzTest.java" />
       </list>
     </option>
@@ -321,7 +319,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FizzBuzzTest">
+  <component name="RunManager" selected="JUnit.de.benjitrapp.fizzbuzz_tdd_kata in FizzBuzzKata">
     <configuration default="false" name="FizzBuzzTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -414,6 +412,32 @@
       <option name="MAIN_CLASS_NAME" value="de.benjitrapp.fizzbuzz_tdd_kata.FizzBuzzTest" />
       <option name="METHOD_NAME" value="shouldHaveCorrectCountsOfFizzBuzzAndFizzBuzzInRangeFrom1to100" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="de.benjitrapp.fizzbuzz_tdd_kata in FizzBuzzKata" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="de.benjitrapp.fizzbuzz_tdd_kata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="FizzBuzzKata" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="de.benjitrapp.fizzbuzz_tdd_kata" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
@@ -748,19 +772,21 @@
       <patterns />
       <method />
     </configuration>
-    <list size="5">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JUnit.FizzBuzzRangeTest" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.CoffeeMakerTest.testAddInventory" />
       <item index="3" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest.shouldConvert60ToFizzBuzz" />
       <item index="4" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest.shouldHaveCorrectCountsOfFizzBuzzAndFizzBuzzInRangeFrom1to100" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.de.benjitrapp.fizzbuzz_tdd_kata in FizzBuzzKata" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest.shouldHaveCorrectCountsOfFizzBuzzAndFizzBuzzInRangeFrom1to100" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest.shouldConvert60ToFizzBuzz" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.CoffeeMakerTest.testAddInventory" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.de.benjitrapp.fizzbuzz_tdd_kata in FizzBuzzKata" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest.shouldHaveCorrectCountsOfFizzBuzzAndFizzBuzzInRangeFrom1to100" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest.shouldConvert60ToFizzBuzz" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.CoffeeMakerTest.testAddInventory" />
       </list>
     </recent_temporary>
   </component>
@@ -783,9 +809,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FizzBuzzRangeTest - 2017.04.10 at 22h 02m 17s.xml">
-      <configuration name="FizzBuzzRangeTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FizzBuzzTest - 2017.04.10 at 22h 02m 24s.xml">
       <configuration name="FizzBuzzTest" configurationId="JUnit" />
     </history-entry>
@@ -813,10 +836,12 @@
     <history-entry file="FizzBuzzTest_shouldHaveCorrectCountsOfFizzBuzzAndFizzBuzzInRangeFrom1to100 - 2017.04.10 at 22h 06m 50s.xml">
       <configuration name="FizzBuzzTest.shouldHaveCorrectCountsOfFizzBuzzAndFizzBuzzInRangeFrom1to100" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="de_benjitrapp_fizzbuzz_tdd_kata_in_FizzBuzzKata - 2017.04.10 at 23h 02m 27s.xml">
+      <configuration name="de.benjitrapp.fizzbuzz_tdd_kata in FizzBuzzKata" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -829,7 +854,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23773988" sideWeight="0.496208" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2654388" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2654388" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -914,7 +939,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -990,7 +1017,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1023,7 +1052,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1032,7 +1063,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1179,14 +1212,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/katas/FizzBuzzTDD/src/de/benjitrapp/fizzbuzz_tdd_kata/src/FizzBuzzFilterTest.java" />
-    <entry file="file://$PROJECT_DIR$/katas/FizzBuzzTDD/src/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzzFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/katas/FizzBuzzTDD/test/test/de/benjitrapp/fizzbuzz_tdd_kata/src/FizzBuzzFilterTest.java" />
     <entry file="file://$PROJECT_DIR$/katas/CoffeeMaker_JUnit/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -1224,7 +1249,17 @@
     <entry file="file://$PROJECT_DIR$/katas/FizzBuzzTDD/src/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzz.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/katas/FizzBuzzTDD/src/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzzFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -1239,7 +1274,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/katas/FizzBuzzTDD/test/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzzRangeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
+        <state relative-caret-position="187">
           <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1249,8 +1284,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/katas/FizzBuzzTDD/test/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzzTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        <state relative-caret-position="-170">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
           <folding />
         </state>
       </provider>

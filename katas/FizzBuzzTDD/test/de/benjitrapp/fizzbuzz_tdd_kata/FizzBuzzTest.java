@@ -1,18 +1,11 @@
-<<<<<<< Updated upstream:katas/FizzBuzzTDD/test/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzzTest.java
 package de.benjitrapp.fizzbuzz_tdd_kata;
 
-=======
->>>>>>> Stashed changes:katas/FizzBuzzTDD/test/FizzBuzzTest.java
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
 
-<<<<<<< Updated upstream:katas/FizzBuzzTDD/test/de/benjitrapp/fizzbuzz_tdd_kata/FizzBuzzTest.java
-import static de.benjitrapp.fizzbuzz_tdd_kata.FizzBuzzRange.range;
-=======
->>>>>>> Stashed changes:katas/FizzBuzzTDD/test/FizzBuzzTest.java
 import static java.util.Arrays.asList;
 import static java.util.Collections.singletonList;
 import static org.junit.jupiter.api.Assertions.*;
