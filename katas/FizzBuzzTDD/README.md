@@ -1,4 +1,4 @@
-# src.FizzBuzz TDD-Kata
+# FizzBuzz TDD-Kata
 
 ## Über diese Kata
 Diese Kata wurde bei der "agile2008" durch Michael Feathers und Emily Bache vorgeführt 
@@ -36,7 +36,7 @@ Mathe Stunde ist bereits morgen. Zeit mit dem Programmieren zu beginnen!
 Schreibe ein Programm, das die Zahlen von 1 bis 100 ausgibt. Für Vielfache
 von 3 soll das Wort "Fizz" ausgegeben werden und für Vielfache von 5 das 
 Word "Buzz". Für Zahlen die ein Vielfaches von 3 und 5 sind, soll das Wort
-"src.FizzBuzz" ausgegeben werden.
+"FizzBuzz" ausgegeben werden.
 
 Um möglichst schnell eine robuste und gut getestete Implementation zu erlangen, 
 empfiehlt sich der Einsatz von TDD resp. BabySteps im Einklang mit dem
@@ -58,7 +58,7 @@ Buzz
 Fizz
 13
 14
-src.FizzBuzz
+FizzBuzz
 16
 17
 Fizz
