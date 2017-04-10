@@ -75,6 +75,6 @@ Buzz
 
 **TIPP**: Hierbei empfiehlt sich der Einsatz von 
 [Predicates](http://howtodoinjava.com/java-8/how-to-use-predicate-in-java-8/) (Java 8) 
-, um die "src.FizzBuzz"-Logik sauber, kurz und prägnant sowie erweiterbar zu gestalten. Wenn 
+, um die "FizzBuzz"-Logik sauber, kurz und prägnant sowie erweiterbar zu gestalten. Wenn 
 zuvor mittels TTD / BabySteps vorgegangen wurde, sollte ein Refactoring keine große Hürde 
 darstellen.
