@@ -74,10 +74,10 @@ Buzz
 * Für eine Zahl wird "fizz" ausgegeben, wenn sie durch 3 teilbar ist oder eine 3 enthält
 * Für eine Zahl wird "buzz" ausgegeben, wenn sie durch 5 teilbar ist oder eine 5 enthält
 
-**Lösung**: [Ohne Predicates](https://github.com/BenjiTrapp/TDD-Coding-Dojo/tree/FizzBuzzTDDKata_Solution2/katas/FizzBuzzTDD)
-
 **TIPP**: Hierbei empfiehlt sich der Einsatz von 
 [Predicates](http://howtodoinjava.com/java-8/how-to-use-predicate-in-java-8/) (Java 8) 
 , um die "FizzBuzz"-Logik sauber, kurz und prägnant sowie erweiterbar zu gestalten. Wenn 
 zuvor mittels TTD / BabySteps vorgegangen wurde, sollte ein Refactoring keine große Hürde 
 darstellen.
+
+**Lösung**: [Ohne Predicates](https://github.com/BenjiTrapp/TDD-Coding-Dojo/tree/FizzBuzzTDDKata_Solution2/katas/FizzBuzzTDD)
