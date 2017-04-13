@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/katas/FizzBuzzTDD/FizzBuzzKata.iml" filepath="$PROJECT_DIR$/katas/FizzBuzzTDD/FizzBuzzKata.iml" />
-      <module fileurl="file://$PROJECT_DIR$/katas/CoffeeMaker_JUnit/coffee_maker_tdd_playground.iml" filepath="$PROJECT_DIR$/katas/CoffeeMaker_JUnit/coffee_maker_tdd_playground.iml" />
     </modules>
   </component>
 </project>
