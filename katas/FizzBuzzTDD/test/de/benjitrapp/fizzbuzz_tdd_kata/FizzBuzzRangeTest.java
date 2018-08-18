@@ -82,7 +82,6 @@ class FizzBuzzRangeTest {
     @Test
     void shouldBeAbleToStartAndEndWith1(){
         // given
-        // given
         final int START = 1;
         final int END = 1;
 
